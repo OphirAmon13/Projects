@@ -1,0 +1,3 @@
+Something to be aware of:
+
+Integer division: When dividing integers, the fractional part is trunctated. That means that 1/2 =0, and 7/4 = 1. In your program, you multiplied the degrees in celsius by 9/5. Since the temperature was stored as a double, and by order of operations first the temperature was multiplied by nine, and then the result was divided by five, java automatically converted both numbers to doubles. This was lucky, however proper practice would be to enumerate that you are dividing floats, by writing 9f/5f.

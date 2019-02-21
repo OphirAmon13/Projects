@@ -1,0 +1,106 @@
+Grade for assignment [AmonOphir]: 10/10 (wow!)
+building Student AmonOphir assignment code base from directory /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library3
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Test cases to execute : 4
+Running edu.yu.intro.test.TestBookFilter
+Execution Started : shouldNotHaveMatchedAuthorAndISBN
+Execution Finished : shouldNotHaveMatchedAuthorAndISBN
+Execution Started : shouldHaveMatchedAuthorAndISBN
+Execution Finished : shouldHaveMatchedAuthorAndISBN
+Execution Started : defaultFilterMatchesAnyBook
+Execution Finished : defaultFilterMatchesAnyBook
+Execution Started : testMatchFailsOnWrongISBN
+Execution Finished : testMatchFailsOnWrongISBN
+Execution Started : testMatchOnBookType
+Execution Finished : testMatchOnBookType
+Execution Started : ISBNMustBeValid
+Execution Finished : ISBNMustBeValid
+Execution Started : emptyTitleIsInvalid
+Execution Finished : emptyTitleIsInvalid
+Execution Started : bookTypeMustBeValid
+Execution Finished : bookTypeMustBeValid
+Execution Started : testMatchOnAuthor
+Execution Finished : testMatchOnAuthor
+Execution Started : testMatchFailsOnWrongBookType
+Execution Finished : testMatchFailsOnWrongBookType
+Execution Started : emptyAuthorIsInvalid
+Execution Finished : emptyAuthorIsInvalid
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.37 sec - in edu.yu.intro.test.TestBookFilter
+Running edu.yu.intro.test.TestBook
+Execution Started : ISBNMustBeValid
+Execution Finished : ISBNMustBeValid
+Execution Started : emptyTitleIsInvalid
+Execution Finished : emptyTitleIsInvalid
+Execution Started : bookTypeMustBeValid
+Execution Finished : bookTypeMustBeValid
+Execution Started : testEqualsAndHashcode
+Execution Finished : testEqualsAndHashcode
+Execution Started : testNotEquals
+Execution Finished : testNotEquals
+Execution Started : testVanillaConstructor
+[INFO ] 2018-12-24 20:08:58.470 [main] TestBook testVanillaConstructor - Created book The Riddle-Master of Hed-Patricia A. McKillip-9780689305450-hardcover
+Execution Finished : testVanillaConstructor
+Execution Started : emptyAuthorIsInvalid
+Execution Finished : emptyAuthorIsInvalid
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec - in edu.yu.intro.test.TestBook
+Running edu.yu.intro.test.TestPatron
+Execution Started : emptyAddressIsInvalid
+Execution Finished : emptyAddressIsInvalid
+Execution Started : emptyLastNameIsInvalid
+Execution Finished : emptyLastNameIsInvalid
+Execution Started : testNotEquals
+Execution Finished : testNotEquals
+Execution Started : emptyFirstNameIsInvalid
+Execution Finished : emptyFirstNameIsInvalid
+Execution Started : testVanillaConstructor
+[INFO ] 2018-12-24 20:08:58.482 [main] TestPatron testVanillaConstructor - Created patron Jane Ballisante
+Execution Finished : testVanillaConstructor
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec - in edu.yu.intro.test.TestPatron
+Running edu.yu.intro.test.TestLibrary
+Execution Started : sameBookCanBeBorrowedMultipleTimesConcurrentlyEvenIfThatMakesNoSense
+Execution Finished : sameBookCanBeBorrowedMultipleTimesConcurrentlyEvenIfThatMakesNoSense
+Execution Started : onLoanOnlyIfPatronIsMemberOfLibrary
+Execution Finished : onLoanOnlyIfPatronIsMemberOfLibrary
+Execution Started : testNoBooksOnLoanToPatron
+Execution Finished : testNoBooksOnLoanToPatron
+Execution Started : addAndSearchForBooks
+Execution Finished : addAndSearchForBooks
+Execution Started : canBorrowBookOnlyIfAddedToLibrary
+Execution Finished : canBorrowBookOnlyIfAddedToLibrary
+Execution Started : canBorrowOnlyIfLibraryMember
+Execution Finished : canBorrowOnlyIfLibraryMember
+Execution Started : testEqualAndHashcode
+Execution Finished : testEqualAndHashcode
+Execution Started : testAddingAndSearchingPatrons
+Execution Finished : testAddingAndSearchingPatrons
+Execution Started : emptyAddressIsInvalid
+Execution Finished : emptyAddressIsInvalid
+Execution Started : testBooksOnLoanToPatron
+[INFO ] 2018-12-24 20:08:58.491 [main] TestLibrary testBooksOnLoanToPatron - Patron Jane Ballisante is borrowing book The Hobbit-J. R. R. Tolkien-9780547928227-hardcover
+[INFO ] 2018-12-24 20:08:58.491 [main] TestLibrary testBooksOnLoanToPatron - Patron Jane Ballisante is borrowing book The Lord of the Rings: 50th Anniversary, One Vol. Edition-J. R. R. Tolkien-9780618645619-hardcover
+Execution Finished : testBooksOnLoanToPatron
+Execution Started : emptyPhoneNumberIsInvalid
+Execution Finished : emptyPhoneNumberIsInvalid
+Execution Started : exerciseDriverScenario
+Execution Finished : exerciseDriverScenario
+Execution Started : emptyNameIsInvalid
+Execution Finished : emptyNameIsInvalid
+Execution Started : newLibraryScenario
+Execution Finished : newLibraryScenario
+Execution Started : testNotEquals
+Execution Finished : testNotEquals
+Execution Started : testVanillaConstructor
+[INFO ] 2018-12-24 20:08:58.496 [main] TestLibrary testVanillaConstructor - Created library edu.yu.intro.Library@a24b3484
+Execution Finished : testVanillaConstructor
+Execution Started : multipleCopiesOfBooksCanBeAddedAndBorrowed
+Execution Finished : multipleCopiesOfBooksCanBeAddedAndBorrowed
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 sec - in edu.yu.intro.test.TestLibrary
+Test cases executed : 40
+
+Results :
+
+Tests run: 40, Failures: 0, Errors: 0, Skipped: 0
+

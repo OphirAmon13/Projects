@@ -1,0 +1,61 @@
+Grade for assignment [AmonOphir]: 10/10
+
+Starting a test 
+Payroll
+TechSupport
+DataModelling
+Payroll
+Department: Payroll has already been entered, disregarding duplicate department...
+
+Problem at line # 4: 'hrs worked' must be at least 1.0 -- but found 0.5
+Problem at line # 5: 'hrs worked' must be at least 1.0 -- but found -20.5
+Problem at line # 6: 'deductions' too small -- -2
+Problem at line # 7: 'deductions' too big -- 38
+Problem at line # 8: net pay must be positive -- -10.0Department StealthDepartment associated with 00016 does not exist
+*************************************************
+          Department    # Employees     Total Gross Pay   Average Gross Pay
+             Payroll              1             3208.00             3208.00
+         TechSupport              3            13011.64             4337.21
+       DataModelling              1             2568.42             2568.42
+*************************************************
+Starting a test 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+9
+9
+9
+8
+7
+11
+2
+Error: The maximimum number of departments is 10
+Department: 9 has already been entered, disregarding duplicate department...
+
+Error: The maximimum number of departments is 10
+Department: 9 has already been entered, disregarding duplicate department...
+
+Error: The maximimum number of departments is 10
+Department: 9 has already been entered, disregarding duplicate department...
+
+Error: The maximimum number of departments is 10
+Department: 8 has already been entered, disregarding duplicate department...
+
+Error: The maximimum number of departments is 10
+Department: 7 has already been entered, disregarding duplicate department...
+
+Error: The maximimum number of departments is 10
+[ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:1.6.0:java (default-cli) on project DepartmentalEmployeePay: An exception occured while executing the Java class. 10 -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException

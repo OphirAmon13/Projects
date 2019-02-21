@@ -1,0 +1,118 @@
+Grade for assignment [AmonOphir]: 8/10
+
+take #1
+
+
+building Student AmonOphir assignment code base from directory /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1
+[ERROR] COMPILATION ERROR : 
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[107,28] isTitleInHoldings(java.lang.String) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[108,28] isISBNInHoldings(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[109,27] getBook(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[110,32] nBooks() is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[115,16] add(edu.yu.intro.Book) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[116,16] add(edu.yu.intro.Book) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[117,16] add(edu.yu.intro.Book) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[119,27] isTitleInHoldings(java.lang.String) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[120,27] isISBNInHoldings(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[121,36] getBook(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[122,39] getBook(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[123,32] nBooks() is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[128,32] nBooks() is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[129,16] add(edu.yu.intro.Book) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[130,32] nBooks() is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[131,16] add(edu.yu.intro.Book) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[132,32] nBooks() is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[134,27] isTitleInHoldings(java.lang.String) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[139,16] isTitleInHoldings(java.lang.String) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[144,16] isTitleInHoldings(java.lang.String) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[150,16] isISBNInHoldings(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[156,16] isISBNInHoldings(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.7.0:testCompile (default-testCompile) on project Library1: Compilation failure: Compilation failure:
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[107,28] isTitleInHoldings(java.lang.String) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[108,28] isISBNInHoldings(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[109,27] getBook(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[110,32] nBooks() is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[115,16] add(edu.yu.intro.Book) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[116,16] add(edu.yu.intro.Book) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[117,16] add(edu.yu.intro.Book) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[119,27] isTitleInHoldings(java.lang.String) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[120,27] isISBNInHoldings(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[121,36] getBook(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[122,39] getBook(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[123,32] nBooks() is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[128,32] nBooks() is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[129,16] add(edu.yu.intro.Book) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[130,32] nBooks() is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[131,16] add(edu.yu.intro.Book) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[132,32] nBooks() is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[134,27] isTitleInHoldings(java.lang.String) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[139,16] isTitleInHoldings(java.lang.String) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[144,16] isTitleInHoldings(java.lang.String) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[150,16] isISBNInHoldings(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/Library1/src/test/java/edu/yu/intro/test/TestLibrary.java:[156,16] isISBNInHoldings(long) is not public in edu.yu.intro.Library; cannot be accessed from outside package
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+take #2
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Test cases to execute : 2
+Running edu.yu.intro.test.TestBook
+Execution Started : testEmptyTitle
+Execution Finished : testEmptyTitle
+Execution Started : testInvalidIsbn
+Execution Finished : testInvalidIsbn
+Execution Started : testEmptyAuthor
+Execution Finished : testEmptyAuthor
+Execution Started : testInvalidBookType
+Execution Finished : testInvalidBookType
+Execution Started : testNotEquals
+Execution Finished : testNotEquals
+Execution Started : testVanillaConstructor
+[INFO ] 2018-12-16 11:00:39.495 [main] TestBook testVanillaConstructor - Created book The Riddle-Master of Hed-Patricia A. McKillip-9780689305450-hardcover
+Execution Finished : testVanillaConstructor
+Execution Started : equalsAndHashcodeImplementation
+Execution Finished : equalsAndHashcodeImplementation
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.383 sec - in edu.yu.intro.test.TestBook
+Running edu.yu.intro.test.TestLibrary
+Execution Started : testEmptyPhoneNumber
+Execution Finished : testEmptyPhoneNumber
+Execution Started : addedBooksScenario
+Execution Finished : addedBooksScenario
+Execution Started : isbnQueryMustSupplyPositiveISBN
+Execution Finished : isbnQueryMustSupplyPositiveISBN
+Execution Started : testEmptyName
+Execution Finished : testEmptyName
+Execution Started : queryByTitleMustNotBeNull
+Execution Finished : queryByTitleMustNotBeNull
+Execution Started : testEmptyAddress
+Execution Finished : testEmptyAddress
+Execution Started : multipleCopiesOfBooksAllowed
+Execution Finished : multipleCopiesOfBooksAllowed
+Execution Started : queryByTitleMustNotBeEmpty
+Execution Finished : queryByTitleMustNotBeEmpty
+Execution Started : newLibraryScenario
+Execution Finished : newLibraryScenario
+Execution Started : testNotEquals
+Execution Finished : testNotEquals
+Execution Started : testVanillaConstructor
+[INFO ] 2018-12-16 11:00:39.504 [main] TestLibrary testVanillaConstructor - Created library edu.yu.intro.Library@a24b3484
+Execution Finished : testVanillaConstructor
+Execution Started : equalsAndHashcodeImplementation
+Execution Finished : equalsAndHashcodeImplementation
+Execution Started : isbnQueryMustSupplyCorrectNumberOfDigits
+Execution Finished : isbnQueryMustSupplyCorrectNumberOfDigits
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec - in edu.yu.intro.test.TestLibrary
+Test cases executed : 20
+
+Results :
+
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0
+

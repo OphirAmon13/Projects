@@ -1,0 +1,18 @@
+Grade for assignment [AmonOphir]: 10/10
+building Student AmonOphir assignment code base from directory /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/ObjectifiedQuizGenerator
+Welcome to the addition quiz! 
+
+Question 1: What is 1 + 32 ? Question 2: What is 21 + 23 ? Question 3: What is 7 + 86 ? Question 4: What is 14 + 51 ? Question 5: What is 12 + 39 ? Question 6: What is 80 + 1 ? Question 7: What is 78 + 9 ? Question 8: What is 26 + 45 ? Question 9: What is 25 + 46 ? Question 10: What is 77 + 96 ? 
+Here are the correct answers:
+Question 1: 1 + 32 = 33. You said 1, which is INCORRECT.
+Question 2: 21 + 23 = 44. You said 2, which is INCORRECT.
+Question 3: 7 + 86 = 93. You said 3, which is INCORRECT.
+Question 4: 14 + 51 = 65. You said 4, which is INCORRECT.
+Question 5: 12 + 39 = 51. You said 5, which is INCORRECT.
+Question 6: 80 + 1 = 81. You said 6, which is INCORRECT.
+Question 7: 78 + 9 = 87. You said 7, which is INCORRECT.
+Question 8: 26 + 45 = 71. You said 8, which is INCORRECT.
+Question 9: 25 + 46 = 71. You said 9, which is INCORRECT.
+Question 10: 77 + 96 = 173. You said 10, which is INCORRECT.
+You got 0 questions correct.
+Your grade on the quiz is 0

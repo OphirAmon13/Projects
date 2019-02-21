@@ -1,0 +1,50 @@
+Grade for assignment [AmonOphir]: 10/10
+Please enter four integers: *************************************************
+INPUT ...
+   a: 3.000000
+   b: 4.000000
+   c: 7.000000
+(coefficient n): 2.000000
+
+OUTPUT ...
+Evaluating 9 + 16 ==? 49: false
+The sums are not equal but irrelevant to Fermat’s theorem which applies to n > 2. (Note: there are an infinite number of positive integer solutions(they are known as "Pythagorean triples"); the input happened not to be one of those solutions.)
+*************************************************
+Please enter four integers: *************************************************
+INPUT ...
+   a: 3.000000
+   b: 4.000000
+   c: 5.000000
+(coefficient n): 2.000000
+
+OUTPUT ...
+Evaluating 9 + 16 ==? 25: true
+The sums are equal, but irrelevant to Fermat’s theorem which applies only to n > 2
+*************************************************
+Please enter four integers: *************************************************
+INPUT ...
+   a: 2.000000
+   b: -3.000000
+   c: 4.000000
+(coefficient n): 5.000000
+
+Error: all input parameters must be positive integers
+Please enter four integers: *************************************************
+INPUT ...
+   a: 2.000000
+   b: 3.000000
+   c: 4.300000
+(coefficient n): 5.000000
+
+Error: all input parameters must be integers
+Please enter four integers: *************************************************
+INPUT ...
+   a: 2.000000
+   b: 3.000000
+   c: 4.000000
+(coefficient n): 5.000000
+
+OUTPUT ...
+Evaluating 32 + 243 ==? 1024: false
+Hmm ... you haven’t disproved Fermat’s theorem yet
+*************************************************

@@ -1,0 +1,9 @@
+001 8 15 20 IT
+002 7 18 josh Sales
+003 9 17 18 Management
+004 .5 18 20 hi8 Accounting
+005 -20.5 a 18 HR 
+006 8 -2 20 Finance
+007 6 20 38 5 HR
+008 5 15 -10 Finance
+009 6 16 16 IT

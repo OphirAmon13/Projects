@@ -1,0 +1,34 @@
+Grade for assignment [AmonOphir]: 10/10
+
+
+"x-2384" 40.0 20.0 40
+Enter employeeId, hrsWorked, wageRate, deductions: deductions cannot exceed $35
+
+
+"x-2384" 0.8 20.0 10
+Enter employeeId, hrsWorked, wageRate, deductions: The minimum amount of hours you can work is 1 hour
+
+
+"x-2384" 1.0 15.0 30
+Enter employeeId, hrsWorked, wageRate, deductions: An error ocurred: net pay is a negative number. Please check your inputs and try again
+
+"x-2384" 40.0 14.0 10
+Enter employeeId, hrsWorked, wageRate, deductions: The minimum hourly wage is $15 an hour
+
+
+"x-2384" 40.0 20.0 10
+Enter employeeId, hrsWorked, wageRate, deductions: *************************************************
+INPUT ...
+Employee Id:        "x-2384"
+Hours Worked:       40.00
+Wage Rate:          20.00
+Deductions:         10
+
+
+
+OUTPUT ...
+Gross Pay:          800.00
+Taxes:              120.00
+Net Pay:            630.00
+Average Pay:        15.75
+*************************************************

@@ -1,0 +1,28 @@
+Grade for assignment [AmonOphir]: 10/10
+building Student AmonOphir assignment code base from directory /Users/avraham/YUGitRepos/1300/AmonOphir/IntroToCompSci/assignments/RefactoredSqrtApproximation
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Test cases to execute : 1
+Running edu.yu.intro.test.SqrtApproximationTest
+Execution Started : calculateSquareRootsInputCantBeNegative
+Execution Finished : calculateSquareRootsInputCantBeNegative
+Execution Started : calculateSquareRootsMinimalLength
+Execution Finished : calculateSquareRootsMinimalLength
+Execution Started : calculateSquareRootsHappyPaths
+Execution Finished : calculateSquareRootsHappyPaths
+Execution Started : sqrt0
+Execution Finished : sqrt0
+Execution Started : sqrt2
+Execution Finished : sqrt2
+Execution Started : sqrtRootCalculationInputCantBeNegative
+The square root of a negative is undefined
+Execution Finished : sqrtRootCalculationInputCantBeNegative
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.04 sec - in edu.yu.intro.test.SqrtApproximationTest
+Test cases executed : 6
+
+Results :
+
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0
+
